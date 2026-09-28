@@ -1,5 +1,6 @@
 ---
 theme: seriph
+favicon: Maxfav.png
 title: The Language of Narrative
 titleTemplate: '%s · Ribó × Fitzgerald, Gilman, Chopin'
 info: |
