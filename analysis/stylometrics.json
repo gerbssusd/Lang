@@ -1,0 +1,35 @@
+{
+ "Fitzgerald": {
+  "words": 15129,
+  "sentences": 916,
+  "mean_sent": 16.5,
+  "excl_per_1k": 4.3,
+  "dash_per_1k": 11.0,
+  "I_per_1k": 7.5,
+  "sttr": 0.472,
+  "color_per_1k": 6.5,
+  "like_as_per_1k": 2.9
+ },
+ "Gilman": {
+  "words": 6182,
+  "sentences": 389,
+  "mean_sent": 15.9,
+  "excl_per_1k": 14.4,
+  "dash_per_1k": 10.0,
+  "I_per_1k": 49.5,
+  "sttr": 0.387,
+  "color_per_1k": 2.1,
+  "like_as_per_1k": 3.4
+ },
+ "Chopin": {
+  "words": 1462,
+  "sentences": 94,
+  "mean_sent": 15.6,
+  "excl_per_1k": 3.4,
+  "dash_per_1k": 5.5,
+  "I_per_1k": 7.5,
+  "sttr": 0.444,
+  "color_per_1k": 2.7,
+  "like_as_per_1k": 2.7
+ }
+}

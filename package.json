@@ -1,0 +1,23 @@
+{
+  "name": "ribo-language-fitzgerald-gilman-chopin",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export --timeout 120000",
+    "export:clicks": "slidev export --with-clicks --format png --output export/png",
+    "export:pptx": "slidev export --format pptx"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@iconify-json/ph": "^1.2.2",
+    "@slidev/cli": "^53.0.0",
+    "@slidev/theme-seriph": "^0.25.0",
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "1.56.0"
+  }
+}
